@@ -7,5 +7,6 @@ It uses https://github.com/cwilso/volume-meter to check volume levels and uses t
 ## Usage:
 1. Clone this repo or download as zip file and extract it.    
 2. Open up index.html.
+3. Edit the images in the `img` folder
 ## TODO:
 Use webgl for rendering and check if thats faster than the current canvas 2D context.
